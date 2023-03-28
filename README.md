@@ -1,1 +1,1 @@
-# chuv_collaboration
+# Sample notebooks: CHUV Collaboration
